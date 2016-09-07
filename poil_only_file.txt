@@ -1,5 +1,0 @@
-This file will be added in git
-Then will be remove with git rm --cached [file_name]
-
-and should only had a short appearance in POIL branch
-
