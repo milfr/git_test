@@ -1,7 +1,13 @@
-#this is another test
+//this is another test
 
-< include stdio.h >
+#include <iostream>
 
-void main () {
+#define BOB "Bob"
+
+int main () {
+    bool state    = true;
+    int a, b, b;
+    char lettre   = 'c';
+    float pie     = 3.1416;
 
 }
