@@ -10,4 +10,12 @@ int main () {
     char lettre   = 'c';
     float pie     = 3.1416;
 
+    if (state) {
+        pet_a_poil(char);
+    }
 }
+
+int pet_a_poil (what) {
+    return int (what);
+}
+
