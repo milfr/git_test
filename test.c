@@ -3,6 +3,7 @@
 #include <iostream>
 
 #define BOB "Bob"
+#define PI 3.14159
 
 int main () {
     bool state    = true;
